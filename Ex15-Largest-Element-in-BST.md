@@ -79,7 +79,8 @@ return 0;
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/e3630f73-e7e2-4607-b28f-e4aeca8fa642)
+![image](https://github.com/user-attachments/assets/67b742ec-5e9d-4901-bafc-bb025dc7bc33)
+
 
 
 ## Result:
